@@ -1,0 +1,80 @@
+
+/* ----- classes ----- */
+
+.center {
+  text-align:center;
+}
+
+.img{
+  width:300;
+  height:400px;
+}
+
+.border{
+  border-radius:10px;
+}
+
+
+/* ----- pseudo-classes ----- */
+
+a:link { color:rgb(130, 35, 219)}
+a:visited {color:rgb(219, 35, 164)}
+a:hove {color:blue}
+a:active {color:rgb(238, 14, 14);}
+
+
+/* ----- header ----- */
+
+header{
+  font-size: 20px;
+  line-height:0.7em;
+  background-color:rgb(0, 183, 255);
+  height: 100px;
+  padding:1px;
+}
+
+/* ----- main ----- */
+
+main{ 
+  margin:60px;
+  padding:60px;
+}
+
+/* ----- footer ----- */
+
+footer{
+  height:70px;
+  background-color:rgb(0, 183, 255);
+  padding:2px; 
+}
+
+ /* ----- style----- */   
+
+h1{ 
+  font-family: serif ;
+  font-size:40px;
+}
+h2{
+  font-size: 19px;
+}
+h3{
+font-size: 22px;
+}
+article {
+font-size:16px;
+}
+
+div {
+ text-align: center;
+	min-width: 100px;
+  height:100 ;
+  font-size: 100px;
+}
+
+hr {
+	height: 2px;
+	background-color: #d4d4d4;
+	border: none;
+}
+
+
